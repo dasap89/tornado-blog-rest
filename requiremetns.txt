@@ -1,0 +1,7 @@
+tornado==4.4.1
+simplejson
+bcrypt
+futures
+MySQL-python
+torndb
+markdown
